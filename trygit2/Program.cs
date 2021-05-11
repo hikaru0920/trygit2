@@ -8,6 +8,7 @@ namespace trygit2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello GitHub!");
+            Console.WriteLine("Hello GitHub!");
         }
     }
 }
